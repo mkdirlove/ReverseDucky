@@ -1,5 +1,17 @@
 # ReverseDucky - Hahahaha quack quack!
 
+Requirements
+```
+USB Rubber Ducky
+
+Payload: https://raw.githubusercontent.com/mkdirlove/ReverseDucky/main/payload.txt
+
+Payload Generator: https://payloadstudio.com/community/
+
+Ngrok: https://ngrok.com/download
+
+Netcat: usually pre-installed in Linux distros like Kali Linux.
+```
 
 Start tunneling...
 ```
