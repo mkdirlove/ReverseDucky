@@ -36,3 +36,11 @@ Open new terminal and run netcat listener and wait for a reverse connection from
 ```
 nc -lvnp 1337
 ```
+
+After plugging the USB Rubber Ducky on the target machine it will automatically disable the Windows Defender and open a hidden Powershell that will download the payload and execute it in the background.
+
+```
+This is for educational purposes only.
+
+~MR.$UD0
+```
