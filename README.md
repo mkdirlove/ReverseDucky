@@ -40,7 +40,7 @@ nc -lvnp 1337
 After plugging the USB Rubber Ducky on the target machine it will automatically disable the Windows Defender and open a hidden Powershell that will download the payload and execute it in the background.
 
 ```
-This is for educational purposes only.
+This information is for educational purposes only.
 
 ~MR.$UD0
 ```
