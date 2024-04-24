@@ -8,14 +8,19 @@ Payload: https://raw.githubusercontent.com/mkdirlove/ReverseDucky/main/payload.t
 
 Payload Generator: https://payloadstudio.com/community/
 
-Ngrok: https://ngrok.com/download
+Ngrok: https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip
 
 Netcat: usually pre-installed in Linux distros like Kali Linux.
 ```
 
+Download ngrok and extract it then run the following command to add your authtoken to the default ngrok.yml configuration file.
+```
+ngrok.exe config add-authtoken 2fYDJ4wD233CSpytL7JsObmutMF_51xya2iBV8Pfj8h1pJME8
+```
+
 Start tunneling...
 ```
-ngrok tcp 1337
+ngrok.exe tcp 1337
 ```
 
 Sample ngrok output...
