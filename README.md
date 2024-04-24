@@ -2,7 +2,7 @@
 
 Requirements
 ```
-USB Rubber Ducky
+[x] USB Rubber Ducky
 
 Payload: https://raw.githubusercontent.com/mkdirlove/ReverseDucky/main/payload.txt
 
